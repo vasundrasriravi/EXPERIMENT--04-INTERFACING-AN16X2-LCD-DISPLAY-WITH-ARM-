@@ -227,6 +227,10 @@ void Error_Handler(void)
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
+ ![Screenshot 2023-06-09 133138](https://github.com/vasundrasriravi/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/119393983/14f53ffe-67d7-49df-93c7-6c80841a5cfd)
+
+ 
+ 
  
  ![Screenshot 2023-04-27 101003](https://user-images.githubusercontent.com/119393983/234762814-1b8db52e-95ab-415a-90dc-bb8ca9576778.jpg)
 
